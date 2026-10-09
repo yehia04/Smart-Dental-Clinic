@@ -33,7 +33,7 @@ const copy = {
     point1: "Friendly, personal attention", point2: "Clear explanations at every step", point3: "Modern, comfortable surroundings",
     galleryLabel: "A look inside Smart Dental Clinic", galleryTitle: "Designed to help you feel at ease.",
     visitEyebrow: "WE’RE EASY TO FIND", visitTitle: "Your neighborhood dental clinic.",
-    address: "Al Arrab Street, Shafa Badran, Amman, Jordan", hoursTitle: "Clinic hours",
+    address: "Al Arab Street, Shafa Badran, Amman, Jordan", shortAddress: "Al Arab Street, Amman", whatsappAvailable: "Also on WhatsApp", hoursTitle: "Clinic hours",
     hours: "Saturday–Thursday", hoursTime: "10:00 am – 5:00 pm", closed: "Friday: Closed",
     directions: "Get directions", visitCallout: "Ready to take the next step?", visitBody: "Send us a message and we’ll help you find a time that works.",
     footerLine: "Care for your smile, close to home.", copyright: "© 2026 Smart Dental Clinic. All rights reserved.",
@@ -41,27 +41,27 @@ const copy = {
   ar: {
     top: "عناية بأسنانك، قريبة منك",
     navServices: "خدماتنا", navClinic: "عن العيادة", navVisit: "موقعنا",
-    call: "اتصل فينا", book: "احجز عالواتساب", lang: "English",
+    call: "اتصل فينا", book: "احجز عبر واتساب", lang: "English",
     eyebrow: "عيادة سمارت لطب الأسنان · عمّان",
-    headline: "ابتسامتك الصحية بتبدأ من راحتك.",
-    intro: "من الفحص الدوري للعلاجات اللي بترجعلك ابتسامتك، إحنا معك بكل خطوة عشان تكون زيارتك مريحة وواضحة ومناسبة إلك.",
+    headline: "راحتك أول خطوة لابتسامة صحية.",
+    intro: "من الفحص الدوري لعلاج الأسنان وتجميلها، إحنا معك خطوة بخطوة. بنسمع منك، وبنشرحلك خياراتك، عشان تكون مرتاح بزيارتك.",
     explore: "تعرّف على خدماتنا", location: "زورونا في شفا بدران",
-    trust: "اهتمام بناسبك", trustText: "منسمعلك، ومنشرحلك خياراتك، ومنساعدك تختار الخطة الأنسب إلك.",
-    servicesEyebrow: "رعاية لكل ابتسامة", servicesTitle: "كل اللي بتحتاجه لابتسامتك بمكان واحد.",
-    servicesIntro: "سواء جاي لفحص دوري أو لعلاج معيّن، منساعدك تعرف خياراتك وتكون مرتاح للخطوة الجايّة.",
-    s1: "رعاية متكاملة للأسنان", d1: "فحوصات دورية، ووقاية، وعلاجات ترميمية للمحافظة على صحة ابتسامتك.",
-    s2: "زراعة الأسنان", d2: "رعاية مدروسة لزراعة الأسنان تساعدك تستعيد وظيفة أسنانك وثقتك بابتسامتك.",
-    s3: "تجميل الأسنان", d3: "علاجات بتصميم يناسبك وبتبرز جمال ابتسامتك الطبيعية.",
-    s4: "علاج العصب", d4: "عناية متخصصة بداخل السن، وراحتك بتكون أولويتنا بكل خطوة.",
+    trust: "عناية واهتمام إلك", trustText: "بنسمع منك وبنشرحلك خطة العلاج بكل وضوح.",
+    servicesEyebrow: "خدماتنا", servicesTitle: "عناية متكاملة بأسنانك، بمكان واحد.",
+    servicesIntro: "جاي لفحص دوري أو عندك مشكلة بأسنانك؟ بنساعدك تفهم خيارات العلاج وتختار الأنسب إلك.",
+    s1: "العناية بصحة الأسنان", d1: "فحص دوري ووقاية وعلاج للأسنان، للحفاظ على صحة ابتسامتك.",
+    s2: "زراعة الأسنان", d2: "تعويض الأسنان المفقودة، بخطة علاج بنشرحها إلك خطوة بخطوة.",
+    s3: "تجميل الأسنان", d3: "خيارات تجميل تناسب أسنانك وتبرز جمال ابتسامتك.",
+    s4: "علاج العصب", d4: "علاج للسن من الداخل، مع الاهتمام براحتك خلال العلاج.",
     learn: "احكيلنا شو بتحتاج", clinicEyebrow: "مكان مريح للعناية بابتسامتك",
-    clinicTitle: "عيادة بترحّب فيك وبتفكّر براحتك.",
-    clinicText: "في عيادة سمارت، بنؤمن إن الرعاية المنيحة بتبدأ بحوار واضح. د. صهيب علي وفريقنا برحّبوا فيك وبقدّموا عناية شخصية وواضحة بعيادة حديثة في شفا بدران.",
-    point1: "اهتمام شخصي وبأسلوب ودود", point2: "شرح واضح بكل خطوة", point3: "أجواء عصرية ومريحة",
-    galleryLabel: "جولة في عيادة سمارت لطب الأسنان", galleryTitle: "مصممة عشان تحس بالراحة.",
-    visitEyebrow: "وصولنا سهل", visitTitle: "عيادة الأسنان القريبة منكم.",
-    address: "شارع العرب، شفا بدران، عمّان، الأردن", hoursTitle: "مواعيد العيادة",
+    clinicTitle: "أهلاً فيك بعيادة سمارت.",
+    clinicText: "د. صهيب علي وفريق العيادة برحّبوا فيك في شفا بدران. بنخصص وقت نسمع منك، وبنشرحلك العلاج قبل ما نبدأ، عشان تعرف شو تتوقع وتكون مرتاح بكل زيارة.",
+    point1: "وقت نسمع منك ونهتم باحتياجك", point2: "شرح واضح لخطة العلاج", point3: "أجواء هادئة ومريحة",
+    galleryLabel: "جولة داخل العيادة", galleryTitle: "أجواء مريحة من أول زيارة.",
+    visitEyebrow: "زورونا في شفا بدران", visitTitle: "بنستناك بعيادة سمارت.",
+    address: "شارع العرب، شفا بدران، عمّان، الأردن", shortAddress: "شارع العرب، عمّان", whatsappAvailable: "متوفر كمان على واتساب", hoursTitle: "أوقات الدوام",
     hours: "السبت – الخميس", hoursTime: "١٠:٠٠ صباحاً – ٥:٠٠ مساءً", closed: "الجمعة: عطلة",
-    directions: "افتح الموقع على الخريطة", visitCallout: "جاهز تاخد الخطوة الجايّة؟", visitBody: "ابعتلنا رسالة ومنساعدك تلاقي الموعد المناسب.",
+    directions: "موقعنا على الخريطة", visitCallout: "حاب تحجز موعد؟", visitBody: "ابعتلنا على واتساب وبنرتّب معك موعد بناسبك.",
     footerLine: "عناية بابتسامتك، قريبة منك.", copyright: "© ٢٠٢٦ عيادة سمارت لطب الأسنان. جميع الحقوق محفوظة.",
   },
 };
@@ -105,7 +105,7 @@ export default function Home() {
       </header>
 
       <section className="hero" id="home">
-        <div className="hero-copy"><div className="eyebrow"><span />{t.eyebrow}</div><h1>{t.headline}</h1><p className="hero-intro">{t.intro}</p><div className="hero-actions"><a className="button button-primary" href={waLink(language)} target="_blank" rel="noreferrer"><Icon name="whatsapp" />{t.book}<Icon name="arrow" size={17} /></a><a className="button button-quiet" href="#services">{t.explore}<Icon name="arrow" size={16} /></a></div><div className="hero-note"><span className="note-icon"><Icon name="pin" size={18} /></span><span>{t.location}<small>Al Arrab Street, Amman</small></span></div></div>
+        <div className="hero-copy"><div className="eyebrow"><span />{t.eyebrow}</div><h1>{t.headline}</h1><p className="hero-intro">{t.intro}</p><div className="hero-actions"><a className="button button-primary" href={waLink(language)} target="_blank" rel="noreferrer"><Icon name="whatsapp" />{t.book}<Icon name="arrow" size={17} /></a><a className="button button-quiet" href="#services">{t.explore}<Icon name="arrow" size={16} /></a></div><div className="hero-note"><span className="note-icon"><Icon name="pin" size={18} /></span><span>{t.location}<small>{t.shortAddress}</small></span></div></div>
         <div className="hero-visual"><div className="hero-image-wrap"><Image src="/images/hero-treatment-room.png" alt="Bright dental treatment room with panoramic windows at Smart Dental Clinic" fill priority sizes="(max-width: 800px) 100vw, 52vw" className="hero-image" /></div><div className="hero-image-accent"/><div className="care-card"><div className="care-icon"><Icon name="tooth" size={23} /></div><div><strong>{t.trust}</strong><p>{t.trustText}</p></div><span className="care-card-mark">✳</span></div><div className="hero-image-label"><span />{t.galleryLabel}</div></div>
       </section>
 
@@ -115,7 +115,7 @@ export default function Home() {
 
       <section className="gallery-strip"><div><div className="eyebrow"><span />{t.galleryLabel}</div><h2>{t.galleryTitle}</h2></div><div className="gallery-grid"><div className="gallery-image gallery-reception"><Image src="/images/reception.png" alt="Clinic reception area" fill sizes="(max-width: 800px) 90vw, 40vw" /></div><div className="gallery-image"><Image src="/images/diagnostics.png" alt="Dental diagnostics room" fill sizes="(max-width: 800px) 90vw, 25vw" /></div><div className="gallery-image"><Image src="/images/treatment-room.jpg" alt="Dental treatment room" fill sizes="(max-width: 800px) 90vw, 25vw" /></div></div></section>
 
-      <section className="visit-section" id="visit"><div className="visit-heading"><div className="eyebrow"><span />{t.visitEyebrow}</div><h2>{t.visitTitle}</h2><p>{t.address}</p><a className="text-link" href="https://maps.app.goo.gl/vmXk1kZkV34tNBhr9" target="_blank" rel="noreferrer"><Icon name="pin" size={18} />{t.directions}<Icon name="arrow" size={16} /></a></div><div className="visit-details"><div className="visit-detail"><div className="detail-icon"><Icon name="clock" /></div><div><strong>{t.hoursTitle}</strong><p>{t.hours}<br/><b>{t.hoursTime}</b><br/><span>{t.closed}</span></p></div></div><div className="visit-detail"><div className="detail-icon"><Icon name="phone" /></div><div><strong>{t.call}</strong><p><a href={`tel:${phone}`}>{phone}</a><br/><span>WhatsApp available</span></p></div></div></div><div className="visit-cta"><div><h3>{t.visitCallout}</h3><p>{t.visitBody}</p></div><a className="button button-light" href={waLink(language)} target="_blank" rel="noreferrer"><Icon name="whatsapp" />{t.book}<Icon name="arrow" size={16} /></a></div></section>
+      <section className="visit-section" id="visit"><div className="visit-heading"><div className="eyebrow"><span />{t.visitEyebrow}</div><h2>{t.visitTitle}</h2><p>{t.address}</p><a className="text-link" href="https://maps.app.goo.gl/vmXk1kZkV34tNBhr9" target="_blank" rel="noreferrer"><Icon name="pin" size={18} />{t.directions}<Icon name="arrow" size={16} /></a></div><div className="visit-details"><div className="visit-detail"><div className="detail-icon"><Icon name="clock" /></div><div><strong>{t.hoursTitle}</strong><p>{t.hours}<br/><b>{t.hoursTime}</b><br/><span>{t.closed}</span></p></div></div><div className="visit-detail"><div className="detail-icon"><Icon name="phone" /></div><div><strong>{t.call}</strong><p><a href={`tel:${phone}`}><bdi dir="ltr">{phone}</bdi></a><br/><span>{t.whatsappAvailable}</span></p></div></div></div><div className="visit-cta"><div><h3>{t.visitCallout}</h3><p>{t.visitBody}</p></div><a className="button button-light" href={waLink(language)} target="_blank" rel="noreferrer"><Icon name="whatsapp" />{t.book}<Icon name="arrow" size={16} /></a></div></section>
 
       <footer className="site-footer"><a className="brand footer-brand" href="#home"><Image className="brand-logo" src="/images/smart-dental-logo-v2.png" alt="Smart Dental Clinic" width={156} height={52} /></a><p>{t.footerLine}</p><span>{t.copyright}</span></footer>
     </main>
